@@ -1,0 +1,12 @@
+C:\Users\bellg\OneDrive\Desktop\Application Development\PixelColorFinder\bin\Debug\PixelColorFinder.exe.config
+C:\Users\bellg\OneDrive\Desktop\Application Development\PixelColorFinder\bin\Debug\PixelColorFinder.exe
+C:\Users\bellg\OneDrive\Desktop\Application Development\PixelColorFinder\bin\Debug\PixelColorFinder.pdb
+C:\Users\bellg\OneDrive\Desktop\Application Development\PixelColorFinder\bin\Debug\PixelColorFinder.xml
+C:\Users\bellg\OneDrive\Desktop\Application Development\PixelColorFinder\obj\Debug\PixelColorFinder.vbproj.AssemblyReference.cache
+C:\Users\bellg\OneDrive\Desktop\Application Development\PixelColorFinder\obj\Debug\PixelColorFinder.Resources.resources
+C:\Users\bellg\OneDrive\Desktop\Application Development\PixelColorFinder\obj\Debug\PixelColorFinder.vbproj.GenerateResource.cache
+C:\Users\bellg\OneDrive\Desktop\Application Development\PixelColorFinder\obj\Debug\PixelColorFinder.vbproj.CoreCompileInputs.cache
+C:\Users\bellg\OneDrive\Desktop\Application Development\PixelColorFinder\obj\Debug\PixelColorFinder.exe
+C:\Users\bellg\OneDrive\Desktop\Application Development\PixelColorFinder\obj\Debug\PixelColorFinder.xml
+C:\Users\bellg\OneDrive\Desktop\Application Development\PixelColorFinder\obj\Debug\PixelColorFinder.pdb
+C:\Users\bellg\OneDrive\Desktop\Application Development\PixelColorFinder\obj\Debug\PixelColorFinder.frmPixelColorFinder.resources
